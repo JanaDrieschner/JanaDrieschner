@@ -4,6 +4,8 @@
 
 _The journey to becoming a Web Developer_ 🖖
 
+currently taking part @ Neue Fisch Bootcamp 🐟
+
 
 
 
