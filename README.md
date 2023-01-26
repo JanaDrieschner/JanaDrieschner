@@ -1,8 +1,8 @@
 # Hello everyone! 👋
 
-## I can center a div
+## I can center a div 😎
 
-_The journey to becoming a Web Developer_
+_The journey to becoming a Web Developer_ 🖖
 
 
 
