@@ -1,9 +1,6 @@
 # Hello everyone! 👋
 
-
-_The journey to becoming a Web Developer_ 🖖
-
-taking part @ Neue Fisch Bootcamp 🐟
+ currently taking part @ Neue Fisch Bootcamp 🐟 to become an awesome Web Developer 🖖
 
 
 ### I’m currently working on 
