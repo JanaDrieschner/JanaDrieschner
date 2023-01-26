@@ -15,7 +15,7 @@ taking part @ Neue Fisch Bootcamp 🐟
 </p>
 
 
-## Special Skills
+### Special Skills
 I can center a div 😎
 
 
